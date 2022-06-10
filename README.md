@@ -1,7 +1,5 @@
 # Welcome to Ninja Dicounts!
 
-<hr>
-
 ### This is a completely functional website 💪 where you can find the 🤝🏻 best deals on Coding Ninjas courses.
 
 <hr>
